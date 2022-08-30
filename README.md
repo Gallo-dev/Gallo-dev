@@ -14,7 +14,6 @@
 <img align = "center" alt = "CSS3" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
 <img align = "center" alt = "JavaScript" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
 <img align = "center" alt = "Java" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" >
-<img align = "center" alt = "Python" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
 <div>
 
 ##
@@ -26,6 +25,8 @@
 <div style = "display; inline_block"><br>
 <img align = "center" alt = "VsCode" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
 <img align = "center" alt = "Git" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" >
+<img align = "center" alt = "GitHub" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" >
+<img align = "center" alt = "GitHub" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" >
 <img align = "center" alt = "GitHub" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" >
 <div>
 
